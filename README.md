@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @andrew-program
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++, Java, Python
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+## Hello, I'm Andrew. It's a pleasure to meet you. 👋
