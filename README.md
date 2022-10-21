@@ -19,7 +19,7 @@
   - Get familiar with atleast 5 different programming languages
   - Own a house
 
-## ⌨️ What programming languages? ##
+## ⌨️ What languages? ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-programs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 GitHub Statistics ##
