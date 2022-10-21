@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=andrew-programs&color=blue)
 ## 😁 Who am I? ##
 - 💻 Aspiring back-end developer
 - 📖 Majoring in Computer Science at Pikes Peak State College
@@ -21,3 +22,6 @@
 ## ⌨️ What programming languages? ##
 - Python
 - Javascript
+
+## 📈 GitHub Statistics ##
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrew-programs)
