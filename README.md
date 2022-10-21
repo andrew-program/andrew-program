@@ -4,7 +4,7 @@
 - ❗️ Been programming for 3 years (mostly in Python)
 - 📍 Based in Colorado Springs, CO
 
-## What am I working on? ##
+## 🧑🏻‍💻 What am I working on? ##
 - 📐 My Project(s)
   - This README.md
   - Zillow data gatherer
