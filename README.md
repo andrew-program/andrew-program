@@ -20,8 +20,7 @@
   - Own a house
 
 ## ⌨️ What programming languages? ##
-- Python
-- Javascript
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-programs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 GitHub Statistics ##
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrew-programs)
