@@ -7,7 +7,7 @@
 
 ## 🧑🏻‍💻 What am I working on? ##
 - 📐 My Project(s)
-  - This README.md
+  - Song player
   - Zillow data gatherer
 - 📚 My Studies
   - Javascript
