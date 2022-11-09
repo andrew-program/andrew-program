@@ -7,8 +7,7 @@
 
 ## 🧑🏻‍💻 What am I working on? ##
 - 📐 My Project(s)
-  - Song player
-  - Zillow data gatherer
+  - None for now, learning JavaScript
 - 📚 My Studies
   - Javascript
   - Postgres
