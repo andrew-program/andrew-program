@@ -17,9 +17,3 @@
   - Earn a Bachelor's Degree in Computer Science
   - Get familiar with atleast 5 different programming languages
   - Own a house
-
-## ⌨️ What languages? ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-programs)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📈 GitHub Statistics ##
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrew-programs)
