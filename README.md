@@ -7,13 +7,14 @@
 
 ## 🧑🏻‍💻 What am I working on? ##
 - 📐 My Project(s)
-  - None for now, learning JavaScript
+  - Personal Website
 - 📚 My Studies
-  - Javascript
-  - Postgres
-  - Docker
+  - Javascript (Node.js)
+  - HTML
+  - CSS
+  - Next.js
 - 🎯 My Goals
-  - Get a Junior back-end developer position
+  - Get a junior front-end or back-end developer position
   - Earn a Bachelor's Degree in Computer Science
   - Get familiar with atleast 5 different programming languages
   - Own a house
