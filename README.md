@@ -2,12 +2,12 @@
 ## 😁 Who am I? ##
 - 💻 Aspiring back-end developer
 - 📖 Majoring in Computer Science at Pikes Peak State College
-- ❗️ Been programming for 3 years (mostly in Python)
+- ❗️ Been programming for 3 years
 - 📍 Based in Colorado Springs, CO
 
 ## 🧑🏻‍💻 What am I working on? ##
 - 📐 My Project(s)
-  - Personal Website
+  - Standalone login page demonstration
 - 📚 My Studies
   - Javascript (Node.js)
   - HTML
