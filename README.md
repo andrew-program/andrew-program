@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=andrew-programs&color=blue)
 ## 😁 Who am I? ##
-- 💻 Seeking Web Developer Position
 - 📖 Pursuing a Bachelor's Degree in Computer Science
 - ❗️ Been programming for 4 years
 - 📍 Based in Colorado Springs, CO
