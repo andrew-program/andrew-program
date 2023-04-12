@@ -8,6 +8,7 @@
 ## 🧑🏻‍💻 What am I working on? ##
 - 📐 My Project(s)
   - Standalone login page demonstration
+  - A sample back-end api project
 - 📚 My Studies
   - MongoDB
   - Postgres
