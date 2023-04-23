@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=andrew-programs&color=blue)
 ## 😁 Who am I? ##
 - 📖 Pursuing a Bachelor's Degree in Computer Science
 - ❗️ Programmer of 4 years
